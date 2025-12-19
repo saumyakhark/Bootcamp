@@ -1,1 +1,1 @@
-Full Stack Development FullStack Course
+Full Stack Development Course practice
